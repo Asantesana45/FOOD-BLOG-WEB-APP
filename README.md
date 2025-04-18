@@ -1,4 +1,5 @@
 📌 Table of Contents
+
 .Features
 
 .Tech Stack
@@ -12,23 +13,29 @@
 .License
 
 ✨ Features
+
 🔐 User Authentication: Secure login and registration using JWT.
 
+
 📖 Recipe Management: Create, read, update, and delete recipes.
+
 
 🖼️ Image Uploads: Upload and display recipe images.
 
 
 📱 Responsive Design: Mobile-friendly interface for all devices.
 
+
 🧑‍🍳 User Profiles: View and manage personal recipes.
 
+
 📝 Rich Text Editor: Format recipe instructions with ease.​
-GitHub
-GitHub
+
 
 🛠️ Tech Stack
+
 Frontend
+
 React with Vite for fast development.
 
 React Router for client-side routing.
@@ -36,7 +43,7 @@ React Router for client-side routing.
 Axios for HTTP requests.
 
 CSS Modules for scoped styling.​
-GitHub
+
 
 Backend
 Node.js with Express for server-side logic.
@@ -97,8 +104,6 @@ cd ../client
 npm run dev
 The frontend will be accessible at http://localhost:5173.
 
-📸 Screenshots
-Add screenshots of your application here to showcase its features and UI.
 
 📄 License
 This project is licensed under the MIT License.
